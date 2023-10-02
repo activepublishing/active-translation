@@ -1,0 +1,15 @@
+{
+    "name": "activepublishing/active-translation",
+    "description" : "Bundle for automatically translating all or some of the localized fields in PimCore objects",
+    "version": "1.0.1",
+    "homepage": "https://activepublishing.fr",
+    "license": "GPL-3.0-or-later",
+    "type": "pimcore-bundle",
+    "authors": [
+        {
+          "name": "Active Publishing",
+          "email": "contact@active-publishing.fr",
+          "role": "Developer"
+        }
+      ]
+}
