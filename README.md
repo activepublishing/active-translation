@@ -1,3 +1,6 @@
+Requirements
+Pimcore 10.x
+
 # Active Translation Bundle
 
 Bundle for automatically translating all or some of the localized fields in PimCore objects.
