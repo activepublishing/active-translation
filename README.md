@@ -1,4 +1,4 @@
-Requirements
+Requirements :
 Pimcore 10.x
 
 # Active Translation Bundle
